@@ -1,6 +1,6 @@
 package com.rea.robot.robot;
 
-import com.rea.robot.IRobo;
+import com.rea.robot.robot.IRobo;
 import com.rea.robot.pojo.Position;
 
 public class Robot implements IRobo {

@@ -1,8 +1,8 @@
 package com.rea.robot.test;
 
-import com.rea.robot.IRobo;
 import com.rea.robot.pojo.Direction;
 import com.rea.robot.pojo.Position;
+import com.rea.robot.robot.IRobo;
 import com.rea.robot.robot.Robot;
 
 import junit.framework.TestCase;
